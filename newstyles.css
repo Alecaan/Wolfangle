@@ -1,0 +1,45 @@
+#head-name {
+  color: #30343F;
+  font-size: 30px !important;
+  font-family: Raleway;
+  position: absolute;
+  left: 150px;
+  top: 37px;
+}
+
+#logo {
+  position: absolute;
+  top: 9px;
+  width: 100px;
+}
+.vl {
+  border-left: 2px solid #30343F;
+  height: 85px;
+  position: absolute;
+  left: 132px;
+  top: 16px;
+}
+#head-title {
+  white-space: nowrap ;
+  font-size: 40px;
+  font-family: 'Open Sans Condensed';
+  text-transform: uppercase ;
+  color: #FFF;
+}
+.white-text{
+  color: #FFF;
+}
+#background-top {
+  background-color: #FFFFFF;
+  padding: 15px 10px 50px 10px;
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-top: -10px;
+}
+.lined{
+  position: relative;
+  top: 15px;
+  font-family: Raleway;
+  text-transform: uppercase;
+  font-weight: 900;
+}
