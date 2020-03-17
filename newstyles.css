@@ -61,6 +61,6 @@
   font-family: 'open sans condenced';
 }
 #made-love {
-  position: relative;
+  position: relative !important;
   left: -130 !important;
 }
