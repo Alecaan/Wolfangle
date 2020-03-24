@@ -24,7 +24,7 @@
   font-size: 40px;
   font-family: 'Open Sans Condensed';
   text-transform: uppercase ;
-  color: #FFF;
+  color: #000;
 }
 .white-text{
   color: #FFF;
@@ -56,6 +56,7 @@
 }
 .main-text{
   font-family: Rubik;
+  color: #000;
 }
 .other-text {
   font-family: 'open sans condenced';
