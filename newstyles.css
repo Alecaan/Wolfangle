@@ -69,7 +69,7 @@
 }
 #details-new {
   position: absolute;
-  top: 200px;
+  top: 200px !important;
   text-align: center;
-  left: 600;
+  left: 600 !important;
 }
