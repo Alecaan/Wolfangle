@@ -24,13 +24,14 @@
   font-size: 40px;
   font-family: 'Open Sans Condensed';
   text-transform: uppercase ;
-  color: #000;
+  color: #FFF;
 }
 .black-text{
   color: #000;
 }
 .white-text{
   color: #FFF;
+  font-family: Rubik;
 }
 #background-top {
   background-color: #FFFFFF;
