@@ -29,6 +29,9 @@
 .black-text{
   color: #000;
 }
+.white-text{
+  color: #FFF;
+}
 #background-top {
   background-color: #FFFFFF;
   padding: 15px 10px 50px 10px;
