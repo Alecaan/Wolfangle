@@ -22,7 +22,7 @@
 #head-title {
   white-space: nowrap ;
   font-size: 40px;
-
+  font-family: '';
   text-transform: uppercase ;
   color: #FFF;
 }
