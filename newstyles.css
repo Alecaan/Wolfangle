@@ -34,6 +34,9 @@
   color: #FFF;
   font-family: Rubik;
 }
+.orange-text{
+  color: orange;
+}
 #background-top {
   background-color: #FFFFFF;
   padding: 15px 10px 50px 10px;
