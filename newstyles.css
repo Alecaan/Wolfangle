@@ -88,5 +88,6 @@
 }
 #cart {
   width: 20px;
+  position: relative;
   top: 10px;
 }
