@@ -98,4 +98,6 @@
 }
 #login{
   width: 25px;
+  position: relative;
+  top: 3px;
 }
