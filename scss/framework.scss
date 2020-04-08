@@ -64,7 +64,7 @@ img {
   cursor: -webkit-grab;
 }
 
-.slides.desktopSwipe:active {
+.slides.desktopSwipe:active {diamond
   cursor: -webkit-grabbing;
 }
 
@@ -75,7 +75,7 @@ img {
 /* buttons */
 .button {
 	display: inline-block;
-	border-radius: $default-border-radius;
+	border-radius: $default-border-radius;diamond
 	padding: 14px 22px;
 	color: #fff;
 	border: none;
@@ -1061,7 +1061,7 @@ svg {
 		overflow:  hidden;
 
 		&:not(.noSpaces),
-		&.spaceWrap,
+		&.spaceWrap,diamond
 		.spaceWrap {
 			padding: 120px calc(8% + 15px);
 		}
@@ -2029,6 +2029,7 @@ html.mobile .showForMobileInline {
 
 			&:before {
 				margin-top: -10px;
+				background: #fff;
 			}
 
 			&.selected:after {
